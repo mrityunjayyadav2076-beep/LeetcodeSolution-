@@ -28,6 +28,7 @@
 | [0400-nth-digit](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0400-nth-digit/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0436-find-right-interval](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0436-find-right-interval/) | Medium |
+| [0441-arranging-coins](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0441-arranging-coins/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0400-nth-digit/) | Medium |
+| [0441-arranging-coins](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0441-arranging-coins/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
