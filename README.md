@@ -7,6 +7,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0436-find-right-interval](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0436-find-right-interval/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,11 +27,13 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0400-nth-digit](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0400-nth-digit/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0436-find-right-interval](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0436-find-right-interval/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0436-find-right-interval](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0436-find-right-interval/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
