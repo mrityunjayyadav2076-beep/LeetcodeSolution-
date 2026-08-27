@@ -10,6 +10,7 @@
 | [0436-find-right-interval](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0436-find-right-interval/) | Medium |
 | [0456-132-pattern](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0456-132-pattern/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
 | [1470-shuffle-the-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -35,6 +36,7 @@
 | [0436-find-right-interval](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0441-arranging-coins/) | Easy |
 | [0456-132-pattern](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0456-132-pattern/) | Medium |
+| [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0456-132-pattern](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0456-132-pattern/) | Medium |
+| [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,4 +107,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0456-132-pattern/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
