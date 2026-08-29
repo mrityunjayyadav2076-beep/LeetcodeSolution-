@@ -99,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +128,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
