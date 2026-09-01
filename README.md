@@ -146,6 +146,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0013-roman-to-integer/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
