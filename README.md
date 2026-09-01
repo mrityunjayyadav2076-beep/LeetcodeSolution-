@@ -9,6 +9,7 @@
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0436-find-right-interval](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0436-find-right-interval/) | Medium |
 | [0456-132-pattern](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0456-132-pattern/) | Medium |
+| [0475-heaters](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0475-heaters/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
 | [1470-shuffle-the-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1470-shuffle-the-array/) | Easy |
@@ -26,6 +27,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0475-heaters](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0475-heaters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +41,7 @@
 | [0436-find-right-interval](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0441-arranging-coins/) | Easy |
 | [0456-132-pattern](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0456-132-pattern/) | Medium |
+| [0475-heaters](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0475-heaters/) | Medium |
 | [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -46,6 +49,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0436-find-right-interval](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0436-find-right-interval/) | Medium |
+| [0475-heaters](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0475-heaters/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
