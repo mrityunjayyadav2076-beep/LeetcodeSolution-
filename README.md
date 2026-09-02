@@ -85,6 +85,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -134,6 +137,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
@@ -154,4 +158,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
