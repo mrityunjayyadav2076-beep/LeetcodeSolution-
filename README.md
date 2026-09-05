@@ -98,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0022-generate-parentheses/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -180,4 +181,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0022-generate-parentheses/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
