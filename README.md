@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0011-container-with-most-water/) | Medium |
 | [0039-combination-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
@@ -29,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
@@ -58,6 +60,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0436-find-right-interval](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0436-find-right-interval/) | Medium |
@@ -177,6 +180,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Sliding Window
