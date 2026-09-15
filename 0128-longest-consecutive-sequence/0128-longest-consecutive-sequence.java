@@ -2,7 +2,8 @@ class Solution {
     public int longestConsecutive(int[] nums) {
     
         Set<Integer> numSet = new HashSet<>();
-        for (int num : nums) {
+        for (int num : nums) 
+        {
             numSet.add(num);
         }
 
@@ -10,11 +11,13 @@ class Solution {
        
         Map<Integer, Integer> sequenceLengthMap = new HashMap<>();
 
-        for (int num : nums) {
+        for (int num : nums) 
+        {
             
             int currentNum = num;
 
-            while (numSet.contains(currentNum)) {
+            while (numSet.contains(currentNum)) 
+            {
                 numSet.remove(currentNum);
                 currentNum++;
             }
