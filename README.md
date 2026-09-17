@@ -86,6 +86,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0155-min-stack/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0155-min-stack/) | Medium |
 | [0456-132-pattern](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0456-132-pattern/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
