@@ -22,7 +22,8 @@ class Solution {
             stack.push(i);
         }
       
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) 
+        {
             int width = right[i] - left[i] - 1;
             int area = heights[i] * width;
             maxArea = Math.max(maxArea, area);
