@@ -44,6 +44,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0475-heaters](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0475-heaters/) | Medium |
 ## Binary Search
@@ -141,12 +142,14 @@
 | [0021-merge-two-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0456-132-pattern](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0456-132-pattern/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -182,6 +185,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0234-palindrome-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
