@@ -37,6 +37,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
@@ -47,6 +48,7 @@
 | [0011-container-with-most-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -149,6 +151,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0206-reverse-linked-list/) | Easy |
@@ -311,4 +314,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
