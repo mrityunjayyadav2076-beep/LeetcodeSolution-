@@ -151,6 +151,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -202,6 +203,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0234-palindrome-linked-list/) | Easy |
 ## String
