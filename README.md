@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0011-container-with-most-water/) | Medium |
 | [0039-combination-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0078-subsets/) | Medium |
@@ -86,6 +87,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0048-rotate-image/) | Medium |
 | [0367-valid-perfect-square](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0441-arranging-coins/) | Easy |
@@ -123,6 +125,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Dynamic Programming
