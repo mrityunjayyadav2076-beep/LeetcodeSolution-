@@ -263,6 +263,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -277,6 +278,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -293,6 +295,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
@@ -334,4 +337,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0146-lru-cache/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
