@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -36,6 +37,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -128,6 +130,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Dynamic Programming
