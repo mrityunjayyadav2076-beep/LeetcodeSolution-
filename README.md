@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0739-daily-temperatures/) | Medium |
 | [1470-shuffle-the-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -182,11 +183,13 @@
 | [0234-palindrome-linked-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0394-decode-string/) | Medium |
 | [0456-132-pattern](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0456-132-pattern/) | Medium |
+| [0739-daily-temperatures](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0456-132-pattern](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0456-132-pattern/) | Medium |
+| [0739-daily-temperatures](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0739-daily-temperatures/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
