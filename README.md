@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0011-container-with-most-water/) | Medium |
 | [0039-combination-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0039-combination-sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
@@ -55,6 +56,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0042-trapping-rain-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0148-sort-list/) | Medium |
@@ -140,6 +142,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -178,6 +181,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -189,6 +193,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0456-132-pattern](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0456-132-pattern/) | Medium |
 | [0739-daily-temperatures](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0739-daily-temperatures/) | Medium |
