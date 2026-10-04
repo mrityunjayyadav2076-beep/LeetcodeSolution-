@@ -18,6 +18,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0283-move-zeroes](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0283-move-zeroes/) | Easy |
@@ -151,6 +152,7 @@
 | [0032-longest-valid-parentheses](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0118-pascals-triangle/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
