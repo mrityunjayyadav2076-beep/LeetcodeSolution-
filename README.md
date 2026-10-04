@@ -69,6 +69,7 @@
 | [0283-move-zeroes](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0475-heaters](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0475-heaters/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@
 | [0441-arranging-coins](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0441-arranging-coins/) | Easy |
 | [0483-smallest-good-base](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0483-smallest-good-base/) | Hard |
 | [0877-stone-game](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0877-stone-game/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -405,4 +407,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0877-stone-game/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
