@@ -35,6 +35,7 @@
 | [0877-stone-game](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0877-stone-game/) | Medium |
 | [1470-shuffle-the-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1929-concatenation-of-array/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@
 | [0441-arranging-coins](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0441-arranging-coins/) | Easy |
 | [0483-smallest-good-base](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0483-smallest-good-base/) | Hard |
 | [0877-stone-game](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0877-stone-game/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
