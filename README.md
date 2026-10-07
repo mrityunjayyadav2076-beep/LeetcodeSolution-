@@ -323,6 +323,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -367,6 +368,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -419,4 +421,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
