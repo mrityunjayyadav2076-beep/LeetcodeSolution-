@@ -21,6 +21,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0136-single-number/) | Easy |
 | [0200-number-of-islands](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0283-move-zeroes](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0283-move-zeroes/) | Easy |
@@ -365,6 +366,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0136-single-number/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
