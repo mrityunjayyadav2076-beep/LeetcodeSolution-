@@ -108,6 +108,7 @@
 | [0012-integer-to-roman](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0070-climbing-stairs/) | Easy |
 | [0367-valid-perfect-square](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0400-nth-digit/) | Medium |
@@ -165,6 +166,7 @@
 | [0022-generate-parentheses](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0118-pascals-triangle/) | Easy |
@@ -449,4 +451,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
