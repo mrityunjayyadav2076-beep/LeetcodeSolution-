@@ -169,6 +169,7 @@
 | [0062-unique-paths](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0072-edit-distance/) | Medium |
 | [0118-pascals-triangle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0118-pascals-triangle/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -274,6 +275,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0394-decode-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0394-decode-string/) | Medium |
