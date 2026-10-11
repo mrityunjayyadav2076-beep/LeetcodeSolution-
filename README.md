@@ -38,6 +38,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0877-stone-game/) | Medium |
+| [0994-rotting-oranges](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0994-rotting-oranges/) | Medium |
 | [1470-shuffle-the-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1929-concatenation-of-array/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -161,6 +162,7 @@
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0994-rotting-oranges](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0994-rotting-oranges/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +386,7 @@
 | [0207-course-schedule](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0322-coin-change/) | Medium |
+| [0994-rotting-oranges](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
