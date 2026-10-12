@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0011-container-with-most-water/) | Medium |
+| [0031-next-permutation](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0045-jump-game-ii/) | Medium |
@@ -69,6 +70,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
