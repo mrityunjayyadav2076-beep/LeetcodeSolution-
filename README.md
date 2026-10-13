@@ -27,6 +27,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0283-move-zeroes](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0283-move-zeroes/) | Easy |
@@ -79,6 +80,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -120,6 +122,7 @@
 | [0048-rotate-image](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0189-rotate-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0441-arranging-coins/) | Easy |
