@@ -19,6 +19,7 @@
 | [0056-merge-intervals](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -77,6 +78,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0148-sort-list/) | Medium |
@@ -109,6 +111,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -505,4 +508,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
