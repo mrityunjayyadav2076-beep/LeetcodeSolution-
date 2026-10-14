@@ -83,6 +83,7 @@
 | [0189-rotate-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0283-move-zeroes/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0475-heaters](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0475-heaters/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -109,6 +110,7 @@
 | [0148-sort-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -141,10 +143,12 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0155-min-stack/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -161,6 +165,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Matrix
