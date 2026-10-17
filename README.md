@@ -309,6 +309,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
