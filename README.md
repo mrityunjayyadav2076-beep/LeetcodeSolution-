@@ -133,6 +133,7 @@
 | [0062-unique-paths](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0189-rotate-array/) | Medium |
+| [0279-perfect-squares](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0279-perfect-squares/) | Medium |
 | [0367-valid-perfect-square](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0441-arranging-coins/) | Easy |
@@ -203,6 +204,7 @@
 | [0118-pascals-triangle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0118-pascals-triangle/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0279-perfect-squares](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0877-stone-game](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0877-stone-game/) | Medium |
@@ -418,6 +420,7 @@
 | [0200-number-of-islands](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0322-coin-change/) | Medium |
 | [0994-rotting-oranges](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Search Tree
@@ -500,10 +503,12 @@
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0322-coin-change/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0322-coin-change/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
