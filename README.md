@@ -33,6 +33,7 @@
 | [0189-rotate-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -215,6 +216,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Simulation
