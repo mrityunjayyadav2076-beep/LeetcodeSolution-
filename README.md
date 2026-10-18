@@ -30,6 +30,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0200-number-of-islands/) | Medium |
@@ -207,6 +208,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0279-perfect-squares](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
