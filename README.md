@@ -29,6 +29,7 @@
 | [0118-pascals-triangle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0136-single-number/) | Easy |
+| [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0200-number-of-islands/) | Medium |
@@ -65,6 +66,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0146-lru-cache/) | Medium |
@@ -204,6 +206,7 @@
 | [0118-pascals-triangle](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0118-pascals-triangle/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
 | [0279-perfect-squares](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -317,6 +320,7 @@
 | [0072-edit-distance](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
 | [0394-decode-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0394-decode-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -459,6 +463,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,4 +528,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0075-sort-colors/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
