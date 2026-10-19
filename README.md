@@ -43,6 +43,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0436-find-right-interval](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0436-find-right-interval/) | Medium |
 | [0456-132-pattern](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0456-132-pattern/) | Medium |
 | [0475-heaters](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0475-heaters/) | Medium |
@@ -214,6 +215,7 @@
 | [0279-perfect-squares](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0877-stone-game](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
@@ -516,6 +518,7 @@
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -546,4 +549,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1143-longest-common-subsequence/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
