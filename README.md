@@ -79,6 +79,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0763-partition-labels](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0763-partition-labels/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@
 | [0295-find-median-from-data-stream](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0475-heaters](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0475-heaters/) | Medium |
+| [0763-partition-labels](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0763-partition-labels/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -225,6 +227,7 @@
 | [0045-jump-game-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0763-partition-labels](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0763-partition-labels/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +332,7 @@
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
 | [0394-decode-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0394-decode-string/) | Medium |
+| [0763-partition-labels](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0763-partition-labels/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
