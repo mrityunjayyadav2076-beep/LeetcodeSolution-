@@ -67,6 +67,7 @@
 | [0041-first-missing-positive](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -331,6 +332,7 @@
 | [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
@@ -342,6 +344,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
