@@ -79,6 +79,7 @@
 | [0347-top-k-frequent-elements](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0763-partition-labels](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0763-partition-labels/) | Medium |
 ## Two Pointers
@@ -334,12 +335,14 @@
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
 | [0394-decode-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0394-decode-string/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0763-partition-labels](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0763-partition-labels/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
