@@ -348,6 +348,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0763-partition-labels](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0763-partition-labels/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
