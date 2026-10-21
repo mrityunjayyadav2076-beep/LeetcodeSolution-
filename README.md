@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0039-combination-sum/) | Medium |
@@ -61,6 +62,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
