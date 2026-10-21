@@ -343,6 +343,7 @@
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0394-decode-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0394-decode-string/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0763-partition-labels](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0763-partition-labels/) | Medium |
@@ -369,6 +370,7 @@
 | [0078-subsets](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0257-binary-tree-paths](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0257-binary-tree-paths/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +392,7 @@
 | [0226-invert-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -408,6 +411,7 @@
 | [0226-invert-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -426,6 +430,7 @@
 | [0226-invert-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
