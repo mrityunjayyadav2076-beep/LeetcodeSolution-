@@ -59,6 +59,7 @@
 | [1470-shuffle-the-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1929-concatenation-of-array/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
