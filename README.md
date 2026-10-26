@@ -153,6 +153,7 @@
 | [0013-roman-to-integer](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0062-unique-paths/) | Medium |
+| [0067-add-binary](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0189-rotate-array/) | Medium |
 | [0279-perfect-squares](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0279-perfect-squares/) | Medium |
@@ -256,6 +257,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0067-add-binary/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/1929-concatenation-of-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -345,6 +347,7 @@
 | [0032-longest-valid-parentheses](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0079-word-search/) | Medium |
@@ -454,6 +457,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0136-single-number/) | Easy |
 ## Breadth-First Search
