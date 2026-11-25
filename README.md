@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0027-remove-element/) | Easy |
@@ -344,6 +345,7 @@
 | [0006-zigzag-conversion](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
@@ -582,6 +584,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Brute-Force Search
