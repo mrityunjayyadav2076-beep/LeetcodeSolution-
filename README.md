@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0031-next-permutation/) | Medium |
@@ -98,6 +99,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0027-remove-element/) | Easy |
@@ -137,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/mrityunjayyadav2076-beep/LeetcodeSolution-/tree/main/0075-sort-colors/) | Medium |
